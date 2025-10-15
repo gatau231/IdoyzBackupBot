@@ -94,5 +94,11 @@
     "name": "SELES USERBOT",
     "price": 5000,
     "desk": "SELES USERBOT LITE 5K - USERBOT PREM 10K"
+  },
+  {
+    "id": 17,
+    "name": "SCRIPT/REPO FSUB",
+    "price": 50000,
+    "desk": "NO ENC = 60K, SCRIPT INI COCOK UNTUK PUSH CHANNEL/GROUP"
   }
 ]
