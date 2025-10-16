@@ -78,24 +78,6 @@
     "desk": "GARANSI 30 HARI - 2x CLAIM"
   },
   {
-    "id": 14,
-    "name": "USERBOT LITE",
-    "price": 3000,
-    "desk": "USERBOT INI HANYA FITUR BROADCAST, PAYMENT, DAN TOOLS' LAINNYA"
-  },
-  {
-    "id": 15,
-    "name": "USERBOT PREM",
-    "price": 5000,
-    "desk": "USERBOT DENGAN FITUR LENGKAP"
-  },
-  {
-    "id": 16,
-    "name": "SELES USERBOT",
-    "price": 5000,
-    "desk": "SELES USERBOT LITE 5K - USERBOT PREM 10K"
-  },
-  {
     "id": 17,
     "name": "SCRIPT/REPO FSUB",
     "price": 50000,
